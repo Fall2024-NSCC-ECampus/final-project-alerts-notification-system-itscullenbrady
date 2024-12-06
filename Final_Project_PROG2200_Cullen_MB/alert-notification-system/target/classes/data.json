@@ -1,0 +1,81 @@
+{
+  "persons": [
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "address": "123 Main St",
+      "city": "Springfield",
+      "phone": "123-456-7890",
+      "email": "john.doe@example.com",
+      "age": 30,
+      "medications": "aspirin,ibuprofen",
+      "allergies": "peanuts"
+    },
+    {
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "address": "456 Elm St",
+      "city": "Springfield",
+      "phone": "987-654-3210",
+      "email": "jane.smith@example.com",
+      "age": 25,
+      "medications": "paracetamol",
+      "allergies": ""
+    },
+    {
+      "firstName": "Alice",
+      "lastName": "Johnson",
+      "address": "789 Oak St",
+      "city": "Shelbyville",
+      "phone": "555-555-5555",
+      "email": "alice.j@example.com",
+      "age": 12,
+      "medications": "",
+      "allergies": "dust"
+    },
+    {
+      "firstName": "Bob",
+      "lastName": "Brown",
+      "address": "101 Maple St",
+      "city": "Springfield",
+      "phone": "111-222-3333",
+      "email": "bob.brown@example.com",
+      "age": 45,
+      "medications": "",
+      "allergies": ""
+    },
+    {
+      "firstName": "Emma",
+      "lastName": "White",
+      "address": "202 Pine St",
+      "city": "Shelbyville",
+      "phone": "444-333-2222",
+      "email": "emma.white@example.com",
+      "age": 60,
+      "medications": "insulin",
+      "allergies": ""
+    }
+  ],
+  "fireStations": [
+    {
+      "stationNumber": 1,
+      "address": "123 Main St"
+    },
+    {
+      "stationNumber": 2,
+      "address": "456 Elm St"
+    },
+    {
+      "stationNumber": 3,
+      "address": "789 Oak St"
+    },
+    {
+      "stationNumber": 4,
+      "address": "101 Maple St"
+    },
+    {
+      "stationNumber": 5,
+      "address": "202 Pine St"
+    }
+  ]
+}
